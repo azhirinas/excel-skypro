@@ -2,9 +2,11 @@
 
 ---
 
-Курсовая работа выполнена в рамках обучения на курсе SkyPro
+Курсовая работа выполнена в рамках обучения на курсе SkyPro "Аналитик данных"
 
-Ссылка на курс: https://sky.pro/courses/analytics/excel
+Ссылка на курс: https://sky.pro/courses/analytics/data_analytics
+
+Подробнее о модуле по Excel: https://sky.pro/courses/analytics/excel
 
 ## Задачи по проекту:
 - определить, что является юнитом в нашей экономике
